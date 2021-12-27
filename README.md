@@ -1,1 +1,1 @@
-# nosql-database-deployment
+# Scalable-nosql-database-deployment
