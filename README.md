@@ -1,1 +1,1 @@
-# Scalable-nosql-database-deployment
+# Cassandra-deployment-in-Kubernetes
