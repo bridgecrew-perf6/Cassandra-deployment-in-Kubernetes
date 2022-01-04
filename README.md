@@ -1,4 +1,4 @@
 # Cassandra-deployment-in-Kubernetes
 
-using Digital Ocean
+using Digital Ocean Kubernetes System 
 (in-progress)
